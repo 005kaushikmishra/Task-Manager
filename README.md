@@ -12,9 +12,8 @@ A sleek, modern, and easy-to-use Task Manager App built with a focus on simplici
 
 💾 Local Storage Support (optional) – Keeps tasks even after refreshing the page.
 
-📷 Preview
 📸 UI Preview
-![Top Courses UI]()
+![Top Courses UI](https://github.com/005kaushikmishra/Task-Manager/blob/49127a30e7d4250be6fc9385b10ba2a64a5ba641/Jeera4.JPG)
 
 🚀 How It Works
 Enter your task in the input field.
